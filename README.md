@@ -72,6 +72,14 @@ Core focus areas: **Global Support Operations** | **Incident & Escalation Manage
 
 ---
 
+### 6. Technical Interview Scorecard
+
+I built a spreadsheet rubric for technical support interviews. It converts interviewer ratings into weighted scores for networking, SQL, and a customer support role-play, with a bonus programming section. Section totals give interviewers a common reference for the debrief.
+
+[Download the Excel scorecard](./Technical%20Screen%20Interview%20Scoring%20Sheet.xlsx)
+
+---
+
 ## Technical Skills & Tools
 
 **Support Platforms:** Zendesk, Explore reporting  
